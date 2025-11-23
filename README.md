@@ -19,6 +19,7 @@ ai-guild-kb/
 │   ├── data-types.md ✓
 │   ├── functions-and-control-flow.md ✓
 │   ├── error-handling.md ✓
+│   ├── modern-testing.md ✓
 │   └── testing-with-clarinet.md ✓
 │
 ├── 02-tokens/  ✅ COMPLETE
@@ -88,7 +89,8 @@ Core Clarity language concepts, syntax, and basic programming patterns.
 - Control Flow (if, match, asserts)
 - Maps and Data Structures
 - Error Handling
-- Testing Basics
+- Modern Testing (Vitest + Clarinet SDK)
+- Testing Basics (Legacy Deno approach)
 
 ### 02 - Tokens
 NFT and fungible token standards with implementation guides.

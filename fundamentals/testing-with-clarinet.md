@@ -1,20 +1,3 @@
-# Testing with Clarinet - Complete Guide
-
-## 📖 Overview
-
-Clarinet is the official development tool for Clarity smart contracts. It provides local blockchain simulation, testing framework, and deployment tools.
-
-### What You'll Learn
-- Installing and setting up Clarinet
-- Project structure
-- Writing tests
-- Test assertions
-- Mocking and simulations
-- Best testing practices
-
----
-
-## 🚀 Getting Started with Clarinet
 
 ### Installation
 
